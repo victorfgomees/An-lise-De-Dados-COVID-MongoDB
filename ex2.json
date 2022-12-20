@@ -1,0 +1,95 @@
+[
+  {
+    "_id": {
+      "location": "North America"
+    },
+    "totalDeaths": 1544220.0,
+    "totalpeopleVacc": 456723141.0
+  },
+  {
+    "_id": {
+      "location": "High income"
+    },
+    "totalDeaths": 2760958.0,
+    "totalpeopleVacc": 995644210.0
+  },
+  {
+    "_id": {
+      "location": "Europe"
+    },
+    "totalDeaths": 1989605.0,
+    "totalpeopleVacc": 521676886.0
+  },
+  {
+    "_id": {
+      "location": "European Union"
+    },
+    "totalDeaths": 1181917.0,
+    "totalpeopleVacc": 337999078.0
+  },
+  {
+    "_id": {
+      "location": "Oceania"
+    },
+    "totalDeaths": 21593.0,
+    "totalpeopleVacc": 28948711.0
+  },
+  {
+    "_id": {
+      "location": "Upper middle income"
+    },
+    "totalDeaths": 2507022.0,
+    "totalpeopleVacc": 2100725590.0
+  },
+  {
+    "_id": {
+      "location": "Lower middle income"
+    },
+    "totalDeaths": 1342856.0,
+    "totalpeopleVacc": 2192560568.0
+  },
+  {
+    "_id": {
+      "location": "South America"
+    },
+    "totalDeaths": 1337757.0,
+    "totalpeopleVacc": 373206436.0
+  },
+  {
+    "_id": {
+      "location": "Low income"
+    },
+    "totalDeaths": 47927.0,
+    "totalpeopleVacc": 185171331.0
+  },
+  {
+    "_id": {
+      "location": "International"
+    },
+    "totalDeaths": 15.0,
+    "totalpeopleVacc": {
+      "$numberDouble": "NaN"
+    }
+  },
+  {
+    "_id": {
+      "location": "Africa"
+    },
+    "totalDeaths": 257352.0,
+    "totalpeopleVacc": "9912181.0"
+  },
+  {
+    "_id": {
+      "location": "Asia"
+    },
+    "totalDeaths": 1508127.0,
+    "totalpeopleVacc": 3634599180.0
+  },
+  {
+    "_id": {
+      "location": "World"
+    },
+    "totalDeaths": 6658669.0,
+    "totalpeopleVacc": 5474139397.0
+  }
+]

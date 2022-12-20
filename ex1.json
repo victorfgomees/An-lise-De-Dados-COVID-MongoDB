@@ -1,0 +1,2277 @@
+[
+  {
+    "_id": {
+      "continent": "Africa",
+      "location": "Mali"
+    },
+    "totalTests": 708110.0,
+    "totalDeaths": 743.0,
+    "totalpeopleVacc": 3098178.0
+  },
+  {
+    "_id": {
+      "continent": "Europe",
+      "location": "France"
+    },
+    "totalTests": 278234000.0,
+    "totalDeaths": 160191.0,
+    "totalpeopleVacc": 54618244.0
+  },
+  {
+    "_id": {
+      "continent": "Europe",
+      "location": "Guernsey"
+    },
+    "totalTests": {
+      "$numberDouble": "NaN"
+    },
+    "totalDeaths": {
+      "$numberDouble": "NaN"
+    },
+    "totalpeopleVacc": 54222.0
+  },
+  {
+    "_id": {
+      "continent": "North America",
+      "location": "United States"
+    },
+    "totalTests": 912769124.0,
+    "totalDeaths": 1086199.0,
+    "totalpeopleVacc": 267654789.0
+  },
+  {
+    "_id": {
+      "continent": "Asia",
+      "location": "India"
+    },
+    "totalTests": 858526354.0,
+    "totalDeaths": 530663.0,
+    "totalpeopleVacc": 1027099057.0
+  },
+  {
+    "_id": {
+      "continent": "Africa",
+      "location": "Madagascar"
+    },
+    "totalTests": 451753.0,
+    "totalDeaths": 1414.0,
+    "totalpeopleVacc": 1992277.0
+  },
+  {
+    "_id": {
+      "continent": "Europe",
+      "location": "Switzerland"
+    },
+    "totalTests": 21277734.0,
+    "totalDeaths": 14156.0,
+    "totalpeopleVacc": 6095703.0
+  },
+  {
+    "_id": {
+      "continent": "Asia",
+      "location": "Mongolia"
+    },
+    "totalTests": 7408778.0,
+    "totalDeaths": 2135.0,
+    "totalpeopleVacc": 2272965.0
+  },
+  {
+    "_id": {
+      "continent": "Europe",
+      "location": "Romania"
+    },
+    "totalTests": 21260367.0,
+    "totalDeaths": 67310.0,
+    "totalpeopleVacc": 8183886.0
+  },
+  {
+    "_id": {
+      "continent": "Europe",
+      "location": "San Marino"
+    },
+    "totalTests": {
+      "$numberDouble": "NaN"
+    },
+    "totalDeaths": 120.0,
+    "totalpeopleVacc": 26357.0
+  },
+  {
+    "_id": {
+      "continent": "Africa",
+      "location": "Congo"
+    },
+    "totalTests": 395040.0,
+    "totalDeaths": 386.0,
+    "totalpeopleVacc": 695760.0
+  },
+  {
+    "_id": {
+      "continent": "Europe",
+      "location": "Wales"
+    },
+    "totalTests": {
+      "$numberDouble": "NaN"
+    },
+    "totalDeaths": {
+      "$numberDouble": "NaN"
+    },
+    "totalpeopleVacc": 2590881.0
+  },
+  {
+    "_id": {
+      "continent": "Asia",
+      "location": "Pakistan"
+    },
+    "totalTests": 28889568.0,
+    "totalDeaths": 30635.0,
+    "totalpeopleVacc": 139644465.0
+  },
+  {
+    "_id": {
+      "continent": "North America",
+      "location": "Honduras"
+    },
+    "totalTests": {
+      "$numberDouble": "NaN"
+    },
+    "totalDeaths": 11054.0,
+    "totalpeopleVacc": 6429799.0
+  },
+  {
+    "_id": {
+      "continent": "Europe",
+      "location": "Denmark"
+    },
+    "totalTests": 64649913.0,
+    "totalDeaths": 7620.0,
+    "totalpeopleVacc": 4800460.0
+  },
+  {
+    "_id": {
+      "continent": "South America",
+      "location": "Falkland Islands"
+    },
+    "totalTests": {
+      "$numberDouble": "NaN"
+    },
+    "totalDeaths": {
+      "$numberDouble": "NaN"
+    },
+    "totalpeopleVacc": 2632.0
+  },
+  {
+    "_id": {
+      "continent": "Europe",
+      "location": "Andorra"
+    },
+    "totalTests": 300307.0,
+    "totalDeaths": 158.0,
+    "totalpeopleVacc": 57901.0
+  },
+  {
+    "_id": {
+      "continent": "Africa",
+      "location": "Western Sahara"
+    },
+    "totalTests": 3943.0,
+    "totalDeaths": {
+      "$numberDouble": "NaN"
+    },
+    "totalpeopleVacc": {
+      "$numberDouble": "NaN"
+    }
+  },
+  {
+    "_id": {
+      "continent": "Africa",
+      "location": "Mozambique"
+    },
+    "totalTests": 1341769.0,
+    "totalDeaths": 2229.0,
+    "totalpeopleVacc": 18684051.0
+  },
+  {
+    "_id": {
+      "continent": "Oceania",
+      "location": "Pitcairn"
+    },
+    "totalTests": {
+      "$numberDouble": "NaN"
+    },
+    "totalDeaths": {
+      "$numberDouble": "NaN"
+    },
+    "totalpeopleVacc": 47.0
+  },
+  {
+    "_id": {
+      "continent": "Asia",
+      "location": "Lebanon"
+    },
+    "totalTests": 4731376.0,
+    "totalDeaths": 10742.0,
+    "totalpeopleVacc": 2739752.0
+  },
+  {
+    "_id": {
+      "continent": "Asia",
+      "location": "Brunei"
+    },
+    "totalTests": 93192.0,
+    "totalDeaths": 225.0,
+    "totalpeopleVacc": 450404.0
+  },
+  {
+    "_id": {
+      "continent": "Asia",
+      "location": "Jordan"
+    },
+    "totalTests": 16803235.0,
+    "totalDeaths": 14122.0,
+    "totalpeopleVacc": 4821579.0
+  },
+  {
+    "_id": {
+      "continent": "South America",
+      "location": "Argentina"
+    },
+    "totalTests": 36663990.0,
+    "totalDeaths": 130041.0,
+    "totalpeopleVacc": 41383472.0
+  },
+  {
+    "_id": {
+      "continent": "Europe",
+      "location": "Kosovo"
+    },
+    "totalTests": 1846365.0,
+    "totalDeaths": 3202.0,
+    "totalpeopleVacc": 906602.0
+  },
+  {
+    "_id": {
+      "continent": "Europe",
+      "location": "Spain"
+    },
+    "totalTests": 93162168.0,
+    "totalDeaths": 116422.0,
+    "totalpeopleVacc": 41310693.0
+  },
+  {
+    "_id": {
+      "continent": "Asia",
+      "location": "Bahrain"
+    },
+    "totalTests": 9969082.0,
+    "totalDeaths": 1538.0,
+    "totalpeopleVacc": 1241104.0
+  },
+  {
+    "_id": {
+      "continent": "Africa",
+      "location": "Ghana"
+    },
+    "totalTests": 2465238.0,
+    "totalDeaths": 1461.0,
+    "totalpeopleVacc": 12034108.0
+  },
+  {
+    "_id": {
+      "continent": "Asia",
+      "location": "Kyrgyzstan"
+    },
+    "totalTests": {
+      "$numberDouble": "NaN"
+    },
+    "totalDeaths": 2991.0,
+    "totalpeopleVacc": 1632109.0
+  },
+  {
+    "_id": {
+      "continent": "Europe",
+      "location": "Cyprus"
+    },
+    "totalTests": 29501771.0,
+    "totalDeaths": 1242.0,
+    "totalpeopleVacc": 669939.0
+  },
+  {
+    "_id": {
+      "continent": "Asia",
+      "location": "Macao"
+    },
+    "totalTests": {
+      "$numberDouble": "NaN"
+    },
+    "totalDeaths": 6.0,
+    "totalpeopleVacc": 654993.0
+  },
+  {
+    "_id": {
+      "continent": "Europe",
+      "location": "Poland"
+    },
+    "totalTests": 36962382.0,
+    "totalDeaths": 118395.0,
+    "totalpeopleVacc": 22833872.0
+  },
+  {
+    "_id": {
+      "continent": "Europe",
+      "location": "Greece"
+    },
+    "totalTests": 84483362.0,
+    "totalDeaths": 34614.0,
+    "totalpeopleVacc": 7931923.0
+  },
+  {
+    "_id": {
+      "continent": "Africa",
+      "location": "Egypt"
+    },
+    "totalTests": 11954884.0,
+    "totalDeaths": 24800.0,
+    "totalpeopleVacc": 53675774.0
+  },
+  {
+    "_id": {
+      "continent": "Asia",
+      "location": "Israel"
+    },
+    "totalTests": 51780014.0,
+    "totalDeaths": 11934.0,
+    "totalpeopleVacc": 6720749.0
+  },
+  {
+    "_id": {
+      "continent": "Africa",
+      "location": "Namibia"
+    },
+    "totalTests": 1056045.0,
+    "totalDeaths": 4080.0,
+    "totalpeopleVacc": 599175.0
+  },
+  {
+    "_id": {
+      "continent": "North America",
+      "location": "Montserrat"
+    },
+    "totalTests": {
+      "$numberDouble": "NaN"
+    },
+    "totalDeaths": 8.0,
+    "totalpeopleVacc": 2104.0
+  },
+  {
+    "_id": {
+      "continent": "Oceania",
+      "location": "Guam"
+    },
+    "totalTests": 323516.0,
+    "totalDeaths": {
+      "$numberDouble": "NaN"
+    },
+    "totalpeopleVacc": {
+      "$numberDouble": "NaN"
+    }
+  },
+  {
+    "_id": {
+      "continent": "Asia",
+      "location": "Saudi Arabia"
+    },
+    "totalTests": 43251385.0,
+    "totalDeaths": 9490.0,
+    "totalpeopleVacc": 26951666.0
+  },
+  {
+    "_id": {
+      "continent": "Europe",
+      "location": "Monaco"
+    },
+    "totalTests": {
+      "$numberDouble": "NaN"
+    },
+    "totalDeaths": 65.0,
+    "totalpeopleVacc": 28875.0
+  },
+  {
+    "_id": {
+      "continent": "Africa",
+      "location": "Seychelles"
+    },
+    "totalTests": {
+      "$numberDouble": "NaN"
+    },
+    "totalDeaths": 172.0,
+    "totalpeopleVacc": 85770.0
+  },
+  {
+    "_id": {
+      "continent": "Asia",
+      "location": "South Korea"
+    },
+    "totalTests": 100269452.0,
+    "totalDeaths": 31232.0,
+    "totalpeopleVacc": 45135602.0
+  },
+  {
+    "_id": {
+      "continent": "Africa",
+      "location": "Tunisia"
+    },
+    "totalTests": 4647813.0,
+    "totalDeaths": 29272.0,
+    "totalpeopleVacc": 7215716.0
+  },
+  {
+    "_id": {
+      "continent": "North America",
+      "location": "Turks and Caicos Islands"
+    },
+    "totalTests": {
+      "$numberDouble": "NaN"
+    },
+    "totalDeaths": 36.0,
+    "totalpeopleVacc": 32338.0
+  },
+  {
+    "_id": {
+      "continent": "Europe",
+      "location": "North Macedonia"
+    },
+    "totalTests": 2074132.0,
+    "totalDeaths": 9599.0,
+    "totalpeopleVacc": 854425.0
+  },
+  {
+    "_id": {
+      "continent": "Africa",
+      "location": "Zimbabwe"
+    },
+    "totalTests": 2379907.0,
+    "totalDeaths": 5622.0,
+    "totalpeopleVacc": 6437808.0
+  },
+  {
+    "_id": {
+      "continent": "Oceania",
+      "location": "Cook Islands"
+    },
+    "totalTests": {
+      "$numberDouble": "NaN"
+    },
+    "totalDeaths": 1.0,
+    "totalpeopleVacc": 15084.0
+  },
+  {
+    "_id": {
+      "continent": "North America",
+      "location": "El Salvador"
+    },
+    "totalTests": 1921625.0,
+    "totalDeaths": 4230.0,
+    "totalpeopleVacc": 4652597.0
+  },
+  {
+    "_id": {
+      "continent": "Europe",
+      "location": "Germany"
+    },
+    "totalTests": 131286804.0,
+    "totalDeaths": 159594.0,
+    "totalpeopleVacc": 64827875.0
+  },
+  {
+    "_id": {
+      "continent": "South America",
+      "location": "Chile"
+    },
+    "totalTests": 39773213.0,
+    "totalDeaths": 62753.0,
+    "totalpeopleVacc": 18081327.0
+  },
+  {
+    "_id": {
+      "continent": "South America",
+      "location": "Uruguay"
+    },
+    "totalTests": 6086835.0,
+    "totalDeaths": 7548.0,
+    "totalpeopleVacc": 3002718.0
+  },
+  {
+    "_id": {
+      "continent": "Europe",
+      "location": "Sweden"
+    },
+    "totalTests": 18407585.0,
+    "totalDeaths": 21234.0,
+    "totalpeopleVacc": 7813295.0
+  },
+  {
+    "_id": {
+      "continent": "North America",
+      "location": "Jamaica"
+    },
+    "totalTests": 1124299.0,
+    "totalDeaths": 3433.0,
+    "totalpeopleVacc": 841609.0
+  },
+  {
+    "_id": {
+      "continent": "Africa",
+      "location": "Rwanda"
+    },
+    "totalTests": 5534918.0,
+    "totalDeaths": 1467.0,
+    "totalpeopleVacc": 10572981.0
+  },
+  {
+    "_id": {
+      "continent": "Oceania",
+      "location": "Papua New Guinea"
+    },
+    "totalTests": 249149.0,
+    "totalDeaths": 669.0,
+    "totalpeopleVacc": 364894.0
+  },
+  {
+    "_id": {
+      "continent": "Asia",
+      "location": "Maldives"
+    },
+    "totalTests": 2211113.0,
+    "totalDeaths": 311.0,
+    "totalpeopleVacc": 399146.0
+  },
+  {
+    "_id": {
+      "continent": "Asia",
+      "location": "United Arab Emirates"
+    },
+    "totalTests": 168522672.0,
+    "totalDeaths": 2348.0,
+    "totalpeopleVacc": 9991089.0
+  },
+  {
+    "_id": {
+      "continent": "North America",
+      "location": "United States Virgin Islands"
+    },
+    "totalTests": 115079.0,
+    "totalDeaths": {
+      "$numberDouble": "NaN"
+    },
+    "totalpeopleVacc": {
+      "$numberDouble": "NaN"
+    }
+  },
+  {
+    "_id": {
+      "continent": "Europe",
+      "location": "Slovakia"
+    },
+    "totalTests": 51238482.0,
+    "totalDeaths": 20773.0,
+    "totalpeopleVacc": 2595901.0
+  },
+  {
+    "_id": {
+      "continent": "North America",
+      "location": "Mexico"
+    },
+    "totalTests": 15569464.0,
+    "totalDeaths": 330729.0,
+    "totalpeopleVacc": 99071001.0
+  },
+  {
+    "_id": {
+      "continent": "South America",
+      "location": "Brazil"
+    },
+    "totalTests": 70923215.0,
+    "totalDeaths": 691449.0,
+    "totalpeopleVacc": 188132532.0
+  },
+  {
+    "_id": {
+      "continent": "North America",
+      "location": "Saint Kitts and Nevis"
+    },
+    "totalTests": 94440.0,
+    "totalDeaths": 46.0,
+    "totalpeopleVacc": 33794.0
+  },
+  {
+    "_id": {
+      "continent": "Europe",
+      "location": "Montenegro"
+    },
+    "totalTests": {
+      "$numberDouble": "NaN"
+    },
+    "totalDeaths": 2790.0,
+    "totalpeopleVacc": 292783.0
+  },
+  {
+    "_id": {
+      "continent": "Oceania",
+      "location": "Northern Mariana Islands"
+    },
+    "totalTests": 59110.0,
+    "totalDeaths": {
+      "$numberDouble": "NaN"
+    },
+    "totalpeopleVacc": {
+      "$numberDouble": "NaN"
+    }
+  },
+  {
+    "_id": {
+      "continent": "Africa",
+      "location": "Algeria"
+    },
+    "totalTests": 230553.0,
+    "totalDeaths": 6881.0,
+    "totalpeopleVacc": 7840131.0
+  },
+  {
+    "_id": {
+      "continent": "Europe",
+      "location": "Luxembourg"
+    },
+    "totalTests": 4299901.0,
+    "totalDeaths": 1171.0,
+    "totalpeopleVacc": 481875.0
+  },
+  {
+    "_id": {
+      "continent": "Oceania",
+      "location": "Nauru"
+    },
+    "totalTests": {
+      "$numberDouble": "NaN"
+    },
+    "totalDeaths": 1.0,
+    "totalpeopleVacc": 11522.0
+  },
+  {
+    "_id": {
+      "continent": "Asia",
+      "location": "Vietnam"
+    },
+    "totalTests": 85824349.0,
+    "totalDeaths": 43179.0,
+    "totalpeopleVacc": 90349305.0
+  },
+  {
+    "_id": {
+      "continent": "Asia",
+      "location": "Singapore"
+    },
+    "totalTests": {
+      "$numberDouble": "NaN"
+    },
+    "totalDeaths": 1708.0,
+    "totalpeopleVacc": 5156279.0
+  },
+  {
+    "_id": {
+      "continent": "Asia",
+      "location": "Oman"
+    },
+    "totalTests": 2031675.0,
+    "totalDeaths": 4628.0,
+    "totalpeopleVacc": 3257365.0
+  },
+  {
+    "_id": {
+      "continent": "Africa",
+      "location": "Angola"
+    },
+    "totalTests": 1618566.0,
+    "totalDeaths": 1928.0,
+    "totalpeopleVacc": 14887847.0
+  },
+  {
+    "_id": {
+      "continent": "South America",
+      "location": "Venezuela"
+    },
+    "totalTests": {
+      "$numberDouble": "NaN"
+    },
+    "totalDeaths": 5830.0,
+    "totalpeopleVacc": 22157232.0
+  },
+  {
+    "_id": {
+      "continent": "North America",
+      "location": "Bonaire Sint Eustatius and Saba"
+    },
+    "totalTests": {
+      "$numberDouble": "NaN"
+    },
+    "totalDeaths": 38.0,
+    "totalpeopleVacc": 19109.0
+  },
+  {
+    "_id": {
+      "continent": "Africa",
+      "location": "Guinea"
+    },
+    "totalTests": 708410.0,
+    "totalDeaths": 465.0,
+    "totalpeopleVacc": 6087292.0
+  },
+  {
+    "_id": {
+      "continent": "North America",
+      "location": "Saint Vincent and the Grenadines"
+    },
+    "totalTests": 108388.0,
+    "totalDeaths": 116.0,
+    "totalpeopleVacc": 37331.0
+  },
+  {
+    "_id": {
+      "continent": "Asia",
+      "location": "Syria"
+    },
+    "totalTests": 175957.0,
+    "totalDeaths": 3163.0,
+    "totalpeopleVacc": 3050850.0
+  },
+  {
+    "_id": {
+      "continent": "North America",
+      "location": "Sint Maarten (Dutch part)"
+    },
+    "totalTests": {
+      "$numberDouble": "NaN"
+    },
+    "totalDeaths": {
+      "$numberDouble": "NaN"
+    },
+    "totalpeopleVacc": 29788.0
+  },
+  {
+    "_id": {
+      "continent": "Europe",
+      "location": "Belarus"
+    },
+    "totalTests": 13220483.0,
+    "totalDeaths": 7118.0,
+    "totalpeopleVacc": 6517478.0
+  },
+  {
+    "_id": {
+      "continent": "North America",
+      "location": "Bahamas"
+    },
+    "totalTests": 241200.0,
+    "totalDeaths": 833.0,
+    "totalpeopleVacc": 174147.0
+  },
+  {
+    "_id": {
+      "continent": "Africa",
+      "location": "Cameroon"
+    },
+    "totalTests": 2731181.0,
+    "totalDeaths": 1965.0,
+    "totalpeopleVacc": 3232494.0
+  },
+  {
+    "_id": {
+      "continent": "Europe",
+      "location": "Austria"
+    },
+    "totalTests": 189791719.0,
+    "totalDeaths": 21286.0,
+    "totalpeopleVacc": 6895915.0
+  },
+  {
+    "_id": {
+      "continent": "Africa",
+      "location": "Uganda"
+    },
+    "totalTests": 2749166.0,
+    "totalDeaths": 3630.0,
+    "totalpeopleVacc": 18867075.0
+  },
+  {
+    "_id": {
+      "continent": "Europe",
+      "location": "Estonia"
+    },
+    "totalTests": 3425068.0,
+    "totalDeaths": 2799.0,
+    "totalpeopleVacc": 868376.0
+  },
+  {
+    "_id": {
+      "continent": "Africa",
+      "location": "Democratic Republic of Congo"
+    },
+    "totalTests": 1045120.0,
+    "totalDeaths": 1457.0,
+    "totalpeopleVacc": 5719214.0
+  },
+  {
+    "_id": {
+      "continent": "Europe",
+      "location": "Liechtenstein"
+    },
+    "totalTests": 90632.0,
+    "totalDeaths": 88.0,
+    "totalpeopleVacc": 26764.0
+  },
+  {
+    "_id": {
+      "continent": "Africa",
+      "location": "Djibouti"
+    },
+    "totalTests": 309732.0,
+    "totalDeaths": 189.0,
+    "totalpeopleVacc": 317428.0
+  },
+  {
+    "_id": {
+      "continent": "Oceania",
+      "location": "French Polynesia"
+    },
+    "totalTests": {
+      "$numberDouble": "NaN"
+    },
+    "totalDeaths": 649.0,
+    "totalpeopleVacc": 190765.0
+  },
+  {
+    "_id": {
+      "continent": "Asia",
+      "location": "Myanmar"
+    },
+    "totalTests": 8332037.0,
+    "totalDeaths": 19488.0,
+    "totalpeopleVacc": 34777314.0
+  },
+  {
+    "_id": {
+      "continent": "Asia",
+      "location": "Palestine"
+    },
+    "totalTests": {
+      "$numberDouble": "NaN"
+    },
+    "totalDeaths": 5708.0,
+    "totalpeopleVacc": 2012767.0
+  },
+  {
+    "_id": {
+      "continent": "Asia",
+      "location": "Timor"
+    },
+    "totalTests": 264839.0,
+    "totalDeaths": 138.0,
+    "totalpeopleVacc": 873628.0
+  },
+  {
+    "_id": {
+      "continent": "Africa",
+      "location": "Niger"
+    },
+    "totalTests": 254538.0,
+    "totalDeaths": 314.0,
+    "totalpeopleVacc": 5935299.0
+  },
+  {
+    "_id": {
+      "continent": "Africa",
+      "location": "South Sudan"
+    },
+    "totalTests": 410280.0,
+    "totalDeaths": 138.0,
+    "totalpeopleVacc": 2162941.0
+  },
+  {
+    "_id": {
+      "continent": "Europe",
+      "location": "Portugal"
+    },
+    "totalTests": 42825431.0,
+    "totalDeaths": 25643.0,
+    "totalpeopleVacc": 9770275.0
+  },
+  {
+    "_id": {
+      "continent": "Asia",
+      "location": "Bangladesh"
+    },
+    "totalTests": 13820904.0,
+    "totalDeaths": 29437.0,
+    "totalpeopleVacc": 149139725.0
+  },
+  {
+    "_id": {
+      "continent": "Africa",
+      "location": "Liberia"
+    },
+    "totalTests": 139824.0,
+    "totalDeaths": 294.0,
+    "totalpeopleVacc": 3825381.0
+  },
+  {
+    "_id": {
+      "continent": "North America",
+      "location": "Belize"
+    },
+    "totalTests": 572900.0,
+    "totalDeaths": 688.0,
+    "totalpeopleVacc": 251813.0
+  },
+  {
+    "_id": {
+      "continent": "Africa",
+      "location": "Tanzania"
+    },
+    "totalTests": 455776.0,
+    "totalDeaths": 845.0,
+    "totalpeopleVacc": 28848632.0
+  },
+  {
+    "_id": {
+      "continent": "Asia",
+      "location": "Hong Kong"
+    },
+    "totalTests": 49426686.0,
+    "totalDeaths": 11056.0,
+    "totalpeopleVacc": 6903695.0
+  },
+  {
+    "_id": {
+      "continent": "Asia",
+      "location": "Laos"
+    },
+    "totalTests": 1030237.0,
+    "totalDeaths": 758.0,
+    "totalpeopleVacc": 5888649.0
+  },
+  {
+    "_id": {
+      "continent": "North America",
+      "location": "Barbados"
+    },
+    "totalTests": 697476.0,
+    "totalDeaths": 568.0,
+    "totalpeopleVacc": 163820.0
+  },
+  {
+    "_id": {
+      "continent": "Europe",
+      "location": "Bulgaria"
+    },
+    "totalTests": 10080207.0,
+    "totalDeaths": 38076.0,
+    "totalpeopleVacc": 2104485.0
+  },
+  {
+    "_id": {
+      "continent": "Asia",
+      "location": "China"
+    },
+    "totalTests": 9214000000.0,
+    "totalDeaths": 5549.0,
+    "totalpeopleVacc": 1307222000.0
+  },
+  {
+    "_id": {
+      "continent": "Africa",
+      "location": "Eritrea"
+    },
+    "totalTests": 23693.0,
+    "totalDeaths": 103.0,
+    "totalpeopleVacc": {
+      "$numberDouble": "NaN"
+    }
+  },
+  {
+    "_id": {
+      "continent": "North America",
+      "location": "Haiti"
+    },
+    "totalTests": 206594.0,
+    "totalDeaths": 860.0,
+    "totalpeopleVacc": 398517.0
+  },
+  {
+    "_id": {
+      "continent": "Africa",
+      "location": "Somalia"
+    },
+    "totalTests": 501224.0,
+    "totalDeaths": 1361.0,
+    "totalpeopleVacc": 7137557.0
+  },
+  {
+    "_id": {
+      "continent": "South America",
+      "location": "Paraguay"
+    },
+    "totalTests": 2609819.0,
+    "totalDeaths": 19646.0,
+    "totalpeopleVacc": 3975338.0
+  },
+  {
+    "_id": {
+      "continent": "Europe",
+      "location": "Serbia"
+    },
+    "totalTests": 9852899.0,
+    "totalDeaths": 17451.0,
+    "totalpeopleVacc": 3354075.0
+  },
+  {
+    "_id": {
+      "continent": "Europe",
+      "location": "Finland"
+    },
+    "totalTests": 11038890.0,
+    "totalDeaths": 7572.0,
+    "totalpeopleVacc": 4523948.0
+  },
+  {
+    "_id": {
+      "continent": "Africa",
+      "location": "Gabon"
+    },
+    "totalTests": 1599902.0,
+    "totalDeaths": 306.0,
+    "totalpeopleVacc": 311040.0
+  },
+  {
+    "_id": {
+      "continent": "Europe",
+      "location": "Hungary"
+    },
+    "totalTests": 10943720.0,
+    "totalDeaths": 48380.0,
+    "totalpeopleVacc": 6420546.0
+  },
+  {
+    "_id": {
+      "continent": "Africa",
+      "location": "Equatorial Guinea"
+    },
+    "totalTests": 484554.0,
+    "totalDeaths": 183.0,
+    "totalpeopleVacc": 270109.0
+  },
+  {
+    "_id": {
+      "continent": "North America",
+      "location": "Bermuda"
+    },
+    "totalTests": 41927.0,
+    "totalDeaths": 152.0,
+    "totalpeopleVacc": 48554.0
+  },
+  {
+    "_id": {
+      "continent": "Africa",
+      "location": "Burkina Faso"
+    },
+    "totalTests": 324773.0,
+    "totalDeaths": 387.0,
+    "totalpeopleVacc": 4366726.0
+  },
+  {
+    "_id": {
+      "continent": "Africa",
+      "location": "Ethiopia"
+    },
+    "totalTests": 5024643.0,
+    "totalDeaths": 7572.0,
+    "totalpeopleVacc": 43111242.0
+  },
+  {
+    "_id": {
+      "continent": "Europe",
+      "location": "Jersey"
+    },
+    "totalTests": {
+      "$numberDouble": "NaN"
+    },
+    "totalDeaths": {
+      "$numberDouble": "NaN"
+    },
+    "totalpeopleVacc": 84311.0
+  },
+  {
+    "_id": {
+      "continent": "Oceania",
+      "location": "New Caledonia"
+    },
+    "totalTests": {
+      "$numberDouble": "NaN"
+    },
+    "totalDeaths": 314.0,
+    "totalpeopleVacc": 191668.0
+  },
+  {
+    "_id": {
+      "continent": "North America",
+      "location": "Curacao"
+    },
+    "totalTests": 22100.0,
+    "totalDeaths": 298.0,
+    "totalpeopleVacc": 108601.0
+  },
+  {
+    "_id": {
+      "continent": "Europe",
+      "location": "United Kingdom"
+    },
+    "totalTests": 503270347.0,
+    "totalDeaths": 212766.0,
+    "totalpeopleVacc": 53813491.0
+  },
+  {
+    "_id": {
+      "continent": "Asia",
+      "location": "Japan"
+    },
+    "totalTests": 53504941.0,
+    "totalDeaths": 52295.0,
+    "totalpeopleVacc": 104475865.0
+  },
+  {
+    "_id": {
+      "continent": "Asia",
+      "location": "Kuwait"
+    },
+    "totalTests": 8208880.0,
+    "totalDeaths": 2570.0,
+    "totalpeopleVacc": 3454344.0
+  },
+  {
+    "_id": {
+      "continent": "Europe",
+      "location": "Czechia"
+    },
+    "totalTests": 54587458.0,
+    "totalDeaths": 41979.0,
+    "totalpeopleVacc": 6975828.0
+  },
+  {
+    "_id": {
+      "continent": "North America",
+      "location": "Panama"
+    },
+    "totalTests": 6499239.0,
+    "totalDeaths": 8543.0,
+    "totalpeopleVacc": 3514297.0
+  },
+  {
+    "_id": {
+      "continent": "Africa",
+      "location": "Cape Verde"
+    },
+    "totalTests": {
+      "$numberDouble": "NaN"
+    },
+    "totalDeaths": 412.0,
+    "totalpeopleVacc": 356734.0
+  },
+  {
+    "_id": {
+      "continent": "South America",
+      "location": "Guyana"
+    },
+    "totalTests": 442695.0,
+    "totalDeaths": 1285.0,
+    "totalpeopleVacc": 493404.0
+  },
+  {
+    "_id": {
+      "continent": "Europe",
+      "location": "Lithuania"
+    },
+    "totalTests": 8718186.0,
+    "totalDeaths": 9450.0,
+    "totalpeopleVacc": 1956289.0
+  },
+  {
+    "_id": {
+      "continent": "Africa",
+      "location": "Guinea-Bissau"
+    },
+    "totalTests": 142948.0,
+    "totalDeaths": 176.0,
+    "totalpeopleVacc": 640393.0
+  },
+  {
+    "_id": {
+      "continent": "Europe",
+      "location": "Gibraltar"
+    },
+    "totalTests": 533268.0,
+    "totalDeaths": 110.0,
+    "totalpeopleVacc": 42074.0
+  },
+  {
+    "_id": {
+      "continent": "Asia",
+      "location": "Malaysia"
+    },
+    "totalTests": 60647556.0,
+    "totalDeaths": 36784.0,
+    "totalpeopleVacc": 28117745.0
+  },
+  {
+    "_id": {
+      "continent": "Asia",
+      "location": "Turkmenistan"
+    },
+    "totalTests": {
+      "$numberDouble": "NaN"
+    },
+    "totalDeaths": {
+      "$numberDouble": "NaN"
+    },
+    "totalpeopleVacc": 3728000.0
+  },
+  {
+    "_id": {
+      "continent": "Asia",
+      "location": "Tajikistan"
+    },
+    "totalTests": {
+      "$numberDouble": "NaN"
+    },
+    "totalDeaths": 125.0,
+    "totalpeopleVacc": 5282863.0
+  },
+  {
+    "_id": {
+      "continent": "Asia",
+      "location": "Taiwan"
+    },
+    "totalTests": 13021521.0,
+    "totalDeaths": 14722.0,
+    "totalpeopleVacc": 21817953.0
+  },
+  {
+    "_id": {
+      "continent": "Africa",
+      "location": "Togo"
+    },
+    "totalTests": 749695.0,
+    "totalDeaths": 290.0,
+    "totalpeopleVacc": 2242455.0
+  },
+  {
+    "_id": {
+      "continent": "Europe",
+      "location": "Vatican"
+    },
+    "totalTests": {
+      "$numberDouble": "NaN"
+    },
+    "totalDeaths": {
+      "$numberDouble": "NaN"
+    },
+    "totalpeopleVacc": {
+      "$numberDouble": "NaN"
+    }
+  },
+  {
+    "_id": {
+      "continent": "Asia",
+      "location": "Cambodia"
+    },
+    "totalTests": 2977609.0,
+    "totalDeaths": 3056.0,
+    "totalpeopleVacc": 15228855.0
+  },
+  {
+    "_id": {
+      "continent": "Europe",
+      "location": "Scotland"
+    },
+    "totalTests": {
+      "$numberDouble": "NaN"
+    },
+    "totalDeaths": {
+      "$numberDouble": "NaN"
+    },
+    "totalpeopleVacc": 4549556.0
+  },
+  {
+    "_id": {
+      "continent": "Europe",
+      "location": "Ukraine"
+    },
+    "totalTests": 19288823.0,
+    "totalDeaths": 118610.0,
+    "totalpeopleVacc": 15774300.0
+  },
+  {
+    "_id": {
+      "continent": "Oceania",
+      "location": "Vanuatu"
+    },
+    "totalTests": 11989.0,
+    "totalDeaths": 14.0,
+    "totalpeopleVacc": 144824.0
+  },
+  {
+    "_id": {
+      "continent": "North America",
+      "location": "Costa Rica"
+    },
+    "totalTests": 3677525.0,
+    "totalDeaths": 9051.0,
+    "totalpeopleVacc": 4580458.0
+  },
+  {
+    "_id": {
+      "continent": "Oceania",
+      "location": "New Zealand"
+    },
+    "totalTests": 7264156.0,
+    "totalDeaths": 2257.0,
+    "totalpeopleVacc": 4299152.0
+  },
+  {
+    "_id": {
+      "continent": "Africa",
+      "location": "Cote d'Ivoire"
+    },
+    "totalTests": 1540831.0,
+    "totalDeaths": 830.0,
+    "totalpeopleVacc": 12340126.0
+  },
+  {
+    "_id": {
+      "continent": "North America",
+      "location": "Grenada"
+    },
+    "totalTests": 169195.0,
+    "totalDeaths": 238.0,
+    "totalpeopleVacc": 44180.0
+  },
+  {
+    "_id": {
+      "continent": "Asia",
+      "location": "Afghanistan"
+    },
+    "totalTests": 994894.0,
+    "totalDeaths": 7843.0,
+    "totalpeopleVacc": 11320910.0
+  },
+  {
+    "_id": {
+      "continent": "Asia",
+      "location": "Azerbaijan"
+    },
+    "totalTests": 6947820.0,
+    "totalDeaths": 9989.0,
+    "totalpeopleVacc": 5373253.0
+  },
+  {
+    "_id": {
+      "continent": "Europe",
+      "location": "Ireland"
+    },
+    "totalTests": 12347313.0,
+    "totalDeaths": 8270.0,
+    "totalpeopleVacc": 4103487.0
+  },
+  {
+    "_id": {
+      "continent": "Africa",
+      "location": "Kenya"
+    },
+    "totalTests": 3728165.0,
+    "totalDeaths": 5684.0,
+    "totalpeopleVacc": 14161751.0
+  },
+  {
+    "_id": {
+      "continent": "North America",
+      "location": "Dominica"
+    },
+    "totalTests": 205366.0,
+    "totalDeaths": 74.0,
+    "totalpeopleVacc": 32995.0
+  },
+  {
+    "_id": {
+      "continent": "North America",
+      "location": "Nicaragua"
+    },
+    "totalTests": 196380.0,
+    "totalDeaths": 245.0,
+    "totalpeopleVacc": 6156550.0
+  },
+  {
+    "_id": {
+      "continent": "Asia",
+      "location": "Nepal"
+    },
+    "totalTests": 6969050.0,
+    "totalDeaths": 12019.0,
+    "totalpeopleVacc": 27484915.0
+  },
+  {
+    "_id": {
+      "continent": "Asia",
+      "location": "Turkey"
+    },
+    "totalTests": 163164533.0,
+    "totalDeaths": 101203.0,
+    "totalpeopleVacc": 57941051.0
+  },
+  {
+    "_id": {
+      "continent": "Africa",
+      "location": "Malawi"
+    },
+    "totalTests": 589303.0,
+    "totalDeaths": 2896.0,
+    "totalpeopleVacc": 3920784.0
+  },
+  {
+    "_id": {
+      "continent": "Europe",
+      "location": "Iceland"
+    },
+    "totalTests": 1373785.0,
+    "totalDeaths": 219.0,
+    "totalpeopleVacc": 309770.0
+  },
+  {
+    "_id": {
+      "continent": "Asia",
+      "location": "Georgia"
+    },
+    "totalTests": 13652505.0,
+    "totalDeaths": 16895.0,
+    "totalpeopleVacc": 1654504.0
+  },
+  {
+    "_id": {
+      "continent": "Africa",
+      "location": "Comoros"
+    },
+    "totalTests": 100289.0,
+    "totalDeaths": 161.0,
+    "totalpeopleVacc": 438825.0
+  },
+  {
+    "_id": {
+      "continent": "North America",
+      "location": "Guatemala"
+    },
+    "totalTests": 4067775.0,
+    "totalDeaths": 19969.0,
+    "totalpeopleVacc": 8854604.0
+  },
+  {
+    "_id": {
+      "continent": "Africa",
+      "location": "Eswatini"
+    },
+    "totalTests": 549656.0,
+    "totalDeaths": 1422.0,
+    "totalpeopleVacc": 492300.0
+  },
+  {
+    "_id": {
+      "continent": "Europe",
+      "location": "Isle of Man"
+    },
+    "totalTests": {
+      "$numberDouble": "NaN"
+    },
+    "totalDeaths": 116.0,
+    "totalpeopleVacc": 69560.0
+  },
+  {
+    "_id": {
+      "continent": "South America",
+      "location": "Peru"
+    },
+    "totalTests": 28971116.0,
+    "totalDeaths": 217738.0,
+    "totalpeopleVacc": 30154168.0
+  },
+  {
+    "_id": {
+      "continent": "North America",
+      "location": "Canada"
+    },
+    "totalTests": 62177630.0,
+    "totalDeaths": 48657.0,
+    "totalpeopleVacc": 34473337.0
+  },
+  {
+    "_id": {
+      "continent": "Africa",
+      "location": "Mauritania"
+    },
+    "totalTests": 998154.0,
+    "totalDeaths": 997.0,
+    "totalpeopleVacc": 2055354.0
+  },
+  {
+    "_id": {
+      "continent": "Oceania",
+      "location": "Solomon Islands"
+    },
+    "totalTests": {
+      "$numberDouble": "NaN"
+    },
+    "totalDeaths": 153.0,
+    "totalpeopleVacc": 343821.0
+  },
+  {
+    "_id": {
+      "continent": "Asia",
+      "location": "Thailand"
+    },
+    "totalTests": 24733803.0,
+    "totalDeaths": 33392.0,
+    "totalpeopleVacc": 57005497.0
+  },
+  {
+    "_id": {
+      "continent": "North America",
+      "location": "Antigua and Barbuda"
+    },
+    "totalTests": 16700.0,
+    "totalDeaths": 146.0,
+    "totalpeopleVacc": 64290.0
+  },
+  {
+    "_id": {
+      "continent": "Africa",
+      "location": "Chad"
+    },
+    "totalTests": 218873.0,
+    "totalDeaths": 194.0,
+    "totalpeopleVacc": 3749370.0
+  },
+  {
+    "_id": {
+      "continent": "Africa",
+      "location": "Gambia"
+    },
+    "totalTests": 155686.0,
+    "totalDeaths": 372.0,
+    "totalpeopleVacc": 548701.0
+  },
+  {
+    "_id": {
+      "continent": "Africa",
+      "location": "Lesotho"
+    },
+    "totalTests": 459732.0,
+    "totalDeaths": 706.0,
+    "totalpeopleVacc": 996759.0
+  },
+  {
+    "_id": {
+      "continent": "Africa",
+      "location": "Central African Republic"
+    },
+    "totalTests": 94759.0,
+    "totalDeaths": 113.0,
+    "totalpeopleVacc": 1962326.0
+  },
+  {
+    "_id": {
+      "continent": "Africa",
+      "location": "Zambia"
+    },
+    "totalTests": 3514038.0,
+    "totalDeaths": 4019.0,
+    "totalpeopleVacc": 10802844.0
+  },
+  {
+    "_id": {
+      "continent": "North America",
+      "location": "Cayman Islands"
+    },
+    "totalTests": 9358.0,
+    "totalDeaths": 36.0,
+    "totalpeopleVacc": 61818.0
+  },
+  {
+    "_id": {
+      "continent": "Oceania",
+      "location": "Micronesia (country)"
+    },
+    "totalTests": {
+      "$numberDouble": "NaN"
+    },
+    "totalDeaths": 58.0,
+    "totalpeopleVacc": {
+      "$numberDouble": "NaN"
+    }
+  },
+  {
+    "_id": {
+      "continent": "Asia",
+      "location": "Northern Cyprus"
+    },
+    "totalTests": {
+      "$numberDouble": "NaN"
+    },
+    "totalDeaths": {
+      "$numberDouble": "NaN"
+    },
+    "totalpeopleVacc": 301673.0
+  },
+  {
+    "_id": {
+      "continent": "Asia",
+      "location": "Philippines"
+    },
+    "totalTests": 28472887.0,
+    "totalDeaths": 64944.0,
+    "totalpeopleVacc": 78217768.0
+  },
+  {
+    "_id": {
+      "continent": "Africa",
+      "location": "Botswana"
+    },
+    "totalTests": 2285160.0,
+    "totalDeaths": 2793.0,
+    "totalpeopleVacc": 1684721.0
+  },
+  {
+    "_id": {
+      "continent": "North America",
+      "location": "Cuba"
+    },
+    "totalTests": 5296762.0,
+    "totalDeaths": 8530.0,
+    "totalpeopleVacc": 10716984.0
+  },
+  {
+    "_id": {
+      "continent": "North America",
+      "location": "Dominican Republic"
+    },
+    "totalTests": 3444251.0,
+    "totalDeaths": 4384.0,
+    "totalpeopleVacc": 7298530.0
+  },
+  {
+    "_id": {
+      "continent": "Oceania",
+      "location": "Australia"
+    },
+    "totalTests": 73370295.0,
+    "totalDeaths": 16512.0,
+    "totalpeopleVacc": 22235551.0
+  },
+  {
+    "_id": {
+      "continent": "Europe",
+      "location": "Latvia"
+    },
+    "totalTests": 7263566.0,
+    "totalDeaths": 6113.0,
+    "totalpeopleVacc": 1346184.0
+  },
+  {
+    "_id": {
+      "continent": "Oceania",
+      "location": "Tokelau"
+    },
+    "totalTests": {
+      "$numberDouble": "NaN"
+    },
+    "totalDeaths": {
+      "$numberDouble": "NaN"
+    },
+    "totalpeopleVacc": 2203.0
+  },
+  {
+    "_id": {
+      "continent": "North America",
+      "location": "Trinidad and Tobago"
+    },
+    "totalTests": 768404.0,
+    "totalDeaths": 4271.0,
+    "totalpeopleVacc": 753588.0
+  },
+  {
+    "_id": {
+      "continent": "Oceania",
+      "location": "Tuvalu"
+    },
+    "totalTests": {
+      "$numberDouble": "NaN"
+    },
+    "totalDeaths": {
+      "$numberDouble": "NaN"
+    },
+    "totalpeopleVacc": 9603.0
+  },
+  {
+    "_id": {
+      "continent": "Asia",
+      "location": "Uzbekistan"
+    },
+    "totalTests": {
+      "$numberDouble": "NaN"
+    },
+    "totalDeaths": 1637.0,
+    "totalpeopleVacc": 21247096.0
+  },
+  {
+    "_id": {
+      "continent": "Europe",
+      "location": "Netherlands"
+    },
+    "totalTests": 30687346.0,
+    "totalDeaths": 23029.0,
+    "totalpeopleVacc": 12775557.0
+  },
+  {
+    "_id": {
+      "continent": "Oceania",
+      "location": "Samoa"
+    },
+    "totalTests": {
+      "$numberDouble": "NaN"
+    },
+    "totalDeaths": 29.0,
+    "totalpeopleVacc": 231546.0
+  },
+  {
+    "_id": {
+      "continent": "Oceania",
+      "location": "Tonga"
+    },
+    "totalTests": {
+      "$numberDouble": "NaN"
+    },
+    "totalDeaths": 12.0,
+    "totalpeopleVacc": 91949.0
+  },
+  {
+    "_id": {
+      "continent": "Europe",
+      "location": "Faeroe Islands"
+    },
+    "totalTests": 777845.0,
+    "totalDeaths": 28.0,
+    "totalpeopleVacc": 41715.0
+  },
+  {
+    "_id": {
+      "continent": "Oceania",
+      "location": "Kiribati"
+    },
+    "totalTests": {
+      "$numberDouble": "NaN"
+    },
+    "totalDeaths": 13.0,
+    "totalpeopleVacc": 96184.0
+  },
+  {
+    "_id": {
+      "continent": "Europe",
+      "location": "Albania"
+    },
+    "totalTests": 1613870.0,
+    "totalDeaths": 3594.0,
+    "totalpeopleVacc": 1341413.0
+  },
+  {
+    "_id": {
+      "continent": "Asia",
+      "location": "Qatar"
+    },
+    "totalTests": 7574423.0,
+    "totalDeaths": 685.0,
+    "totalpeopleVacc": 2849572.0
+  },
+  {
+    "_id": {
+      "continent": "Europe",
+      "location": "England"
+    },
+    "totalTests": {
+      "$numberDouble": "NaN"
+    },
+    "totalDeaths": {
+      "$numberDouble": "NaN"
+    },
+    "totalpeopleVacc": 45365837.0
+  },
+  {
+    "_id": {
+      "continent": "Asia",
+      "location": "Kazakhstan"
+    },
+    "totalTests": 11965068.0,
+    "totalDeaths": 19056.0,
+    "totalpeopleVacc": 10849289.0
+  },
+  {
+    "_id": {
+      "continent": "Africa",
+      "location": "Sierra Leone"
+    },
+    "totalTests": 428517.0,
+    "totalDeaths": 126.0,
+    "totalpeopleVacc": 3837130.0
+  },
+  {
+    "_id": {
+      "continent": "Europe",
+      "location": "Northern Ireland"
+    },
+    "totalTests": {
+      "$numberDouble": "NaN"
+    },
+    "totalDeaths": {
+      "$numberDouble": "NaN"
+    },
+    "totalpeopleVacc": 1430126.0
+  },
+  {
+    "_id": {
+      "continent": "Oceania",
+      "location": "Fiji"
+    },
+    "totalTests": 558519.0,
+    "totalDeaths": 878.0,
+    "totalpeopleVacc": 711507.0
+  },
+  {
+    "_id": {
+      "continent": "Africa",
+      "location": "Sao Tome and Principe"
+    },
+    "totalTests": 4694.0,
+    "totalDeaths": 77.0,
+    "totalpeopleVacc": 127438.0
+  },
+  {
+    "_id": {
+      "continent": "South America",
+      "location": "Suriname"
+    },
+    "totalTests": 84184.0,
+    "totalDeaths": 1393.0,
+    "totalpeopleVacc": 267820.0
+  },
+  {
+    "_id": {
+      "continent": "North America",
+      "location": "Greenland"
+    },
+    "totalTests": {
+      "$numberDouble": "NaN"
+    },
+    "totalDeaths": 21.0,
+    "totalpeopleVacc": 41227.0
+  },
+  {
+    "_id": {
+      "continent": "South America",
+      "location": "Colombia"
+    },
+    "totalTests": 35241195.0,
+    "totalDeaths": 141881.0,
+    "totalpeopleVacc": 42886655.0
+  },
+  {
+    "_id": {
+      "continent": "South America",
+      "location": "Ecuador"
+    },
+    "totalTests": 2870685.0,
+    "totalDeaths": 35940.0,
+    "totalpeopleVacc": 15308130.0
+  },
+  {
+    "_id": {
+      "continent": "North America",
+      "location": "Saint Lucia"
+    },
+    "totalTests": 208560.0,
+    "totalDeaths": 409.0,
+    "totalpeopleVacc": 60140.0
+  },
+  {
+    "_id": {
+      "continent": "Europe",
+      "location": "Russia"
+    },
+    "totalTests": 295244836.0,
+    "totalDeaths": 384861.0,
+    "totalpeopleVacc": 87592332.0
+  },
+  {
+    "_id": {
+      "continent": "Asia",
+      "location": "Bhutan"
+    },
+    "totalTests": 1711669.0,
+    "totalDeaths": 21.0,
+    "totalpeopleVacc": 699116.0
+  },
+  {
+    "_id": {
+      "continent": "Europe",
+      "location": "Norway"
+    },
+    "totalTests": 11154564.0,
+    "totalDeaths": 4498.0,
+    "totalpeopleVacc": 4346995.0
+  },
+  {
+    "_id": {
+      "continent": "Africa",
+      "location": "South Africa"
+    },
+    "totalTests": 25637671.0,
+    "totalDeaths": 102550.0,
+    "totalpeopleVacc": 22490787.0
+  },
+  {
+    "_id": {
+      "continent": "North America",
+      "location": "Anguilla"
+    },
+    "totalTests": 51382.0,
+    "totalDeaths": 12.0,
+    "totalpeopleVacc": 10852.0
+  },
+  {
+    "_id": {
+      "continent": "Africa",
+      "location": "Libya"
+    },
+    "totalTests": {
+      "$numberDouble": "NaN"
+    },
+    "totalDeaths": 6437.0,
+    "totalpeopleVacc": 2308724.0
+  },
+  {
+    "_id": {
+      "continent": "Europe",
+      "location": "Croatia"
+    },
+    "totalTests": 4922712.0,
+    "totalDeaths": 17429.0,
+    "totalpeopleVacc": 2320492.0
+  },
+  {
+    "_id": {
+      "continent": "Oceania",
+      "location": "Niue"
+    },
+    "totalTests": {
+      "$numberDouble": "NaN"
+    },
+    "totalDeaths": {
+      "$numberDouble": "NaN"
+    },
+    "totalpeopleVacc": 1255.0
+  },
+  {
+    "_id": {
+      "continent": "Europe",
+      "location": "Slovenia"
+    },
+    "totalTests": 5336373.0,
+    "totalDeaths": 6962.0,
+    "totalpeopleVacc": 1265802.0
+  },
+  {
+    "_id": {
+      "continent": "Oceania",
+      "location": "Palau"
+    },
+    "totalTests": 59627.0,
+    "totalDeaths": 9.0,
+    "totalpeopleVacc": {
+      "$numberDouble": "NaN"
+    }
+  },
+  {
+    "_id": {
+      "continent": "Asia",
+      "location": "Armenia"
+    },
+    "totalTests": 3102267.0,
+    "totalDeaths": 8712.0,
+    "totalpeopleVacc": 1129669.0
+  },
+  {
+    "_id": {
+      "continent": "Asia",
+      "location": "North Korea"
+    },
+    "totalTests": 182968.0,
+    "totalDeaths": 6.0,
+    "totalpeopleVacc": {
+      "$numberDouble": "NaN"
+    }
+  },
+  {
+    "_id": {
+      "continent": "Asia",
+      "location": "Indonesia"
+    },
+    "totalTests": 59503735.0,
+    "totalDeaths": 160311.0,
+    "totalpeopleVacc": 203453456.0
+  },
+  {
+    "_id": {
+      "continent": "Africa",
+      "location": "Saint Helena"
+    },
+    "totalTests": {
+      "$numberDouble": "NaN"
+    },
+    "totalDeaths": {
+      "$numberDouble": "NaN"
+    },
+    "totalpeopleVacc": 4361.0
+  },
+  {
+    "_id": {
+      "continent": "Africa",
+      "location": "Morocco"
+    },
+    "totalTests": 11738659.0,
+    "totalDeaths": 16290.0,
+    "totalpeopleVacc": 25014256.0
+  },
+  {
+    "_id": {
+      "continent": "Oceania",
+      "location": "Wallis and Futuna"
+    },
+    "totalTests": {
+      "$numberDouble": "NaN"
+    },
+    "totalDeaths": 7.0,
+    "totalpeopleVacc": 7136.0
+  },
+  {
+    "_id": {
+      "continent": "Europe",
+      "location": "Italy"
+    },
+    "totalTests": 224876148.0,
+    "totalDeaths": 182419.0,
+    "totalpeopleVacc": 50862039.0
+  },
+  {
+    "_id": {
+      "continent": "Africa",
+      "location": "Benin"
+    },
+    "totalTests": 604310.0,
+    "totalDeaths": 163.0,
+    "totalpeopleVacc": 3209393.0
+  },
+  {
+    "_id": {
+      "continent": "Europe",
+      "location": "Bosnia and Herzegovina"
+    },
+    "totalTests": 1499302.0,
+    "totalDeaths": 16217.0,
+    "totalpeopleVacc": 943394.0
+  },
+  {
+    "_id": {
+      "continent": "North America",
+      "location": "Saint Pierre and Miquelon"
+    },
+    "totalTests": {
+      "$numberDouble": "NaN"
+    },
+    "totalDeaths": 2.0,
+    "totalpeopleVacc": {
+      "$numberDouble": "NaN"
+    }
+  },
+  {
+    "_id": {
+      "continent": "North America",
+      "location": "Aruba"
+    },
+    "totalTests": 793.0,
+    "totalDeaths": 280.0,
+    "totalpeopleVacc": 90114.0
+  },
+  {
+    "_id": {
+      "continent": "North America",
+      "location": "British Virgin Islands"
+    },
+    "totalTests": 96630.0,
+    "totalDeaths": 64.0,
+    "totalpeopleVacc": 19466.0
+  },
+  {
+    "_id": {
+      "continent": "South America",
+      "location": "Bolivia"
+    },
+    "totalTests": 4440371.0,
+    "totalDeaths": 22253.0,
+    "totalpeopleVacc": 7361008.0
+  },
+  {
+    "_id": {
+      "continent": "Asia",
+      "location": "Sri Lanka"
+    },
+    "totalTests": 7691045.0,
+    "totalDeaths": 16809.0,
+    "totalpeopleVacc": 17143761.0
+  },
+  {
+    "_id": {
+      "continent": "Asia",
+      "location": "Iraq"
+    },
+    "totalTests": 19002710.0,
+    "totalDeaths": 25366.0,
+    "totalpeopleVacc": 11323818.0
+  },
+  {
+    "_id": {
+      "continent": "Africa",
+      "location": "Burundi"
+    },
+    "totalTests": 1611285.0,
+    "totalDeaths": 38.0,
+    "totalpeopleVacc": 27578.0
+  },
+  {
+    "_id": {
+      "continent": "Europe",
+      "location": "Malta"
+    },
+    "totalTests": 1950858.0,
+    "totalDeaths": 811.0,
+    "totalpeopleVacc": 478459.0
+  },
+  {
+    "_id": {
+      "continent": "Asia",
+      "location": "Yemen"
+    },
+    "totalTests": 336937.0,
+    "totalDeaths": 2159.0,
+    "totalpeopleVacc": 1003208.0
+  },
+  {
+    "_id": {
+      "continent": "Asia",
+      "location": "Iran"
+    },
+    "totalTests": 52269202.0,
+    "totalDeaths": 144658.0,
+    "totalpeopleVacc": 65108742.0
+  },
+  {
+    "_id": {
+      "continent": "Oceania",
+      "location": "Marshall Islands"
+    },
+    "totalTests": 3184.0,
+    "totalDeaths": 17.0,
+    "totalpeopleVacc": {
+      "$numberDouble": "NaN"
+    }
+  },
+  {
+    "_id": {
+      "continent": "Africa",
+      "location": "Mauritius"
+    },
+    "totalTests": 1282782.0,
+    "totalDeaths": 1038.0,
+    "totalpeopleVacc": 1123773.0
+  },
+  {
+    "_id": {
+      "continent": "Africa",
+      "location": "Sudan"
+    },
+    "totalTests": 562941.0,
+    "totalDeaths": 4992.0,
+    "totalpeopleVacc": 10504568.0
+  },
+  {
+    "_id": {
+      "continent": "Africa",
+      "location": "Senegal"
+    },
+    "totalTests": 1102099.0,
+    "totalDeaths": 1988.0,
+    "totalpeopleVacc": 1949419.0
+  },
+  {
+    "_id": {
+      "continent": "Europe",
+      "location": "Belgium"
+    },
+    "totalTests": 34315605.0,
+    "totalDeaths": 33133.0,
+    "totalpeopleVacc": 9263433.0
+  },
+  {
+    "_id": {
+      "continent": "North America",
+      "location": "Puerto Rico"
+    },
+    "totalTests": 3019115.0,
+    "totalDeaths": {
+      "$numberDouble": "NaN"
+    },
+    "totalpeopleVacc": {
+      "$numberDouble": "NaN"
+    }
+  },
+  {
+    "_id": {
+      "continent": "Europe",
+      "location": "Moldova"
+    },
+    "totalTests": {
+      "$numberDouble": "NaN"
+    },
+    "totalDeaths": 11922.0,
+    "totalpeopleVacc": 1103268.0
+  },
+  {
+    "_id": {
+      "continent": "Africa",
+      "location": "Nigeria"
+    },
+    "totalTests": 5279608.0,
+    "totalDeaths": 3155.0,
+    "totalpeopleVacc": 63982167.0
+  }
+]
